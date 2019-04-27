@@ -1,0 +1,77 @@
+Last spring, soon after Facebook acknowledged that the data of tens of millions of its users had improperly been obtained by the political consulting firm Cambridge Analytica, a top enforcement official at the Federal Trade Commission drafted a memo about the prospect of disciplining the social network.
+
+Lawmakers, consumer advocates and even former commission officials were clamoring for tough action against Facebook, arguing that it had violated an earlier F.T.C. consent decree barring it from misleading users about their how their information was shared.
+
+But the enforcement official, James A. Kohm, took a different view. In a previously undisclosed memo in March, Mr. Kohm — echoing Facebook’s own argument — cautioned that Facebook was not responsible for the consulting firm’s reported abuses. The social network seemed to have taken reasonable steps to address the problem, he wrote, according to someone who read the memo, and most likely had not broken its promises to the F.T.C.
+
+The Cambridge Analytica data leak set off a reckoning for Facebook and a far-reaching debate about the tech industry, which has collected more information about more people than almost any other in history. At the same time, the F.T.C., which is investigating Facebook, is under growing attack for what critics say is a systemic failure to police Silicon Valley’s giants and their enormous appetite for personal data.
+
+Almost alone among industrialized nations, the United States has no basic consumer privacy law. The F.T.C. serves as the country’s de facto privacy regulator, relying on more limited rules against deceptive trade practices to investigate Google, Twitter and other tech firms accused of misleading people about how their information is used.
+
+But many in Washington view the agency as a watchdog that too rarely bites. In more than 40 interviews, former and current F.T.C. officials, lawmakers, Capitol Hill staff members, and consumer advocates said that as evidence of abuses has piled up against tech companies, the F.T.C. has been too cautious. Now, as the Trump administration and Congress debate whether to expand the agency and its authority over privacy violations, the Facebook inquiry looms as a referendum on the F.T.C.’s future.
+
+“They have been asleep at the switch,” said Senator Richard Blumenthal, the Connecticut Democrat and ranking member of the subcommittee charged with overseeing the agency. “It’s a lack of will even more than paucity of resources.”
+
+Even if the agency does not penalize Facebook over the Cambridge incident — and some former F.T.C. officials disagree with Mr. Kohm’s reasoning — the commission could punish the company for other offenses. Former officials say they’ve been told that its inquiry has expanded to include recent security and privacy breaches as well as Facebook’s secretive data-sharing deals with Amazon, Netflix and other companies. Facebook declined to comment on the inquiry.
+
+The agency — overseen by five commissioners, three of them typically from the president’s party — is habitually tight-lipped. Joseph J. Simons, the chairman, declined to comment on the Kohm memo.
+
+“If the F.T.C. had reached a conclusion that there was no case, we would have announced it,” Mr. Simons said in a statement. “Our investigation continues and when it is finished, you can be sure that the result of that investigation will be made public.”
+
+The agency’s defenders said it had taken significant action against tech companies in recent years. Consumer advocacy groups, they said, sometimes want the F.T.C. to take on cases that its relatively narrow powers will not permit.
+
+“The act creating the F.T.C. was not designed with privacy in mind,” said Jessica L. Rich, a consumer protection expert who formerly led the F.T.C.’s consumer bureau. “That they’ve been able to bring hundreds of privacy and data security cases is actually quite a feat, not only given the limitations on their authority but the challenges companies have mounted, especially recently.”
+
+A Cautionary Tale
+As the federal government’s main consumer protection and antitrust authority, the F.T.C. has pursued carmakers, drug companies, illegal robo-callers and bloggers who fail to disclose corporate sponsors.
+
+But it is hampered by its relatively small size — about 1,100 employees, roughly a quarter the staff of the Securities and Exchange Commission — and broad mandate. Guarding consumer privacy online, just one part of its mission, can raise complex technical issues. The agency’s enforcement arm, led by Mr. Kohm, doesn’t have its own tech experts, instead borrowing them from other agency units. The job of chief technologist, an adviser to the F.T.C. chairman, has been vacant since April. And its lawyers are outnumbered by the armies of attorneys employed by tech giants.
+
+“They have considerably less staff than they had in the 1980s, and more responsibility,” said Justin Brookman, a former F.T.C. official under the Obama administration who now works at the Consumers Union.
+
+F.T.C. officials said privacy and data security cases had gotten more attention than any others over the last decade.
+
+Still, all five commissioners agreed at the November Senate hearing that the agency needed more money and greater regulatory authority to keep up with big tech.
+
+Critics said a greater problem was cultural. The F.T.C. is haunted, for example, by a clash with Congress in the 1980s over an attempt by the agency to ban television ads for junk food directed at children, known as “KidVid.” Lawmakers pulled funding and severely weakened the F.T.C.’s power to issue new regulations.
+
+Even today, “in just about every meeting I have at the F.T.C., staff mention KidVid,” said Josh Golin, the executive director of Campaign for a Commercial Free Childhood, which has filed complaints against YouTube and Facebook.
+
+Fears that Congress could again cripple the F.T.C. have made some career lawyers reluctant to take on politically sensitive cases, according to current and former employees, speaking about their experiences during the Trump and Obama administrations.
+
+“They think of themselves as deal-makers, not cops,” said Matt Stoller, policy director at the Open Markets Institute, who has called for big tech platforms to be broken up and regulated. “They have an institutional culture of deference.”
+
+That has hobbled the agency’s approach to tech giants, leading to inadequate responses to privacy violations or efforts to squeeze out emerging competitors, according to Gene Kimmelman, a former senior antitrust official at the Justice Department and president of the consumer group Public Knowledge. The F.T.C. needs legislation to allow it to set new rules for the era of big tech, he argued.
+
+In 2013, for example, F.T.C. commissioners overruled a staff recommendation to sue Google for abusing its dominance in search to harm rivals. Three years later, when Google began merging data collected by several of its services, including Gmail and the ad technology platform DoubleClick, consumer groups filed a complaint with the F.T.C. calling the practice “highly deceptive.” The agency took no public action.
+
+Nor did the F.T.C. penalize Facebook after it began acquiring phone numbers and other data from users of its WhatsApp subsidiary, breaking promises it had made when it acquired the messaging service. By contrast, the European Union’s antitrust chief fined Facebook $122 million last year for making misleading statements about the WhatsApp acquisition.
+
+(Facebook said it notified users of the change with new terms of service and had allowed them to opt out of the practice.)
+
+The F.T.C. has defended its record on privacy, pointing for instance to a $22.5 million fine imposed on Google in 2012, for bypassing privacy settings in Apple’s Safari browser in violation of a consent agreement. The fine was the largest civil penalty in the agency’s history.
+
+Former officials say the agency struggles to enforce privacy within its traditional definition of deceptive or abusive business practices.
+
+Ashkan Soltani, who was the F.T.C.’s chief technologist from 2014 to 2015, said he raised concerns about a location-tracking company, Nomi Technologies, that collected data on people without their explicit consent. He recalled resistance from Republican commissioners and from some staff members who didn’t see a clear consumer harm, since Nomi’s data could not identify specific individuals.
+
+Mr. Soltani argued that the F.T.C. needed to get ahead of a technology that would soon become highly intrusive. (He eventually persuaded the agency to investigate, and in 2015 the F.T.C. approved a settlement with Nomi.)
+
+Today, dozens of companies gather, use or sell location information so precise that it can pinpoint a phone within a few yards. The data is so detailed that it can often be linked to a specific person — and frequently harvested without clear consent.
+
+Proving Harm
+President Trump’s arrival in Washington kicked off a period of uncertainty at the F.T.C. For 16 months, three of five seats remained vacant on the commission, which was initially led by an acting chairwoman, Maureen K. Ohlhausen, an advocate of “regulatory humility.”
+
+Ms. Ohlhausen’s staff told enforcement officials to slow down on cases, so the White House would not view her as anti-business, according to a former senior official. That official and others interviewed for this article spoke on the condition of anonymity to describe conversations that were private or involved nonpublic F.T.C. investigations.
+
+In an interview, Ms. Ohlhausen denied ordering a slowdown and cited privacy actions she had brought against PayPal and Lenovo. But she acknowledged having argued against going after what she regarded as small cases, like Nomi.
+
+With limited resources, she said, the F.T.C. should “pursue cases where the evidence of actual or likely consumer harms is strongest.”
+
+But that standard is difficult to apply against companies like Facebook and Google, whose services are free, and where it is challenging to prove that privacy lapses cause direct financial or emotional harm.
+
+Two former staffers said Mr. Kohm, who has led the enforcement division for more than a decade, had expressed skepticism about proving harm in cases against tech companies.
+
+In recent months, F.T.C. employees meeting with Mr. Kohm asked how he viewed news reports that big tech firms had tracked users’ locations without clearly disclosing the practice. Mr. Kohm, whose division prosecutes boiler rooms, advertising scams, and other financial fraud schemes, responded that the tech companies were legitimate businesses offering free services, and it was unclear how they had harmed consumers, recalled one person in the meeting.
+
+Mr. Kohm declined to comment for this article. Cathy MacFarlane, an F.T.C. spokeswoman, denied in a statement that he placed a lower priority on privacy cases, saying Mr. Kohm “has dedicated his career to enforcing the orders the commission obtains, not setting his own agenda.”
