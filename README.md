@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/artificial-vision-and-language-processing-for-robotics/9781838552268)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/183855226X).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Deep-Learning-with-Keras.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Deep-Learning-with-Keras.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Deep-Learning-with-Keras.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/stargazers)
