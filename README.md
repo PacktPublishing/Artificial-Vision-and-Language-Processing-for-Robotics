@@ -33,3 +33,7 @@ You’ll also need the following software installed in advance:
 * Notepad++/Sublime Text as IDE
 * Python 3.4+ (latest is Python 3.7) installed (from https://python.org)
 * NLTK (<= 3.4), spaCy (<=2.0.18), gensim (<=3.7.0), numpy (<=1.15.4), sklearn (<=0.20.1), matplotlib (<=3.0.2), opencv (<=4.0.0.21), keras (<=2.2.4) and tensorflow (<=1.5, >=2.0). 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838552268">https://packt.link/free-ebook/9781838552268 </a> </p>
